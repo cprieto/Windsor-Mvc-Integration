@@ -13,6 +13,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{B187C5C5-BD94-4C94-850D-AC612B4165EC}"
 	ProjectSection(SolutionItems) = preProject
 		content\ControllersInstaller.cs.pp = content\ControllersInstaller.cs.pp
+		content\WindsorConfig.cs.pp = content\WindsorConfig.cs.pp
 	EndProjectSection
 EndProject
 Global

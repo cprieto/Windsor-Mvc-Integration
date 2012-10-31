@@ -17,6 +17,7 @@
     </dependencies>
     <files>
       <file src="..\content\ControllersInstaller.cs.pp" target="content\ControllersInstaller.cs.pp" />
+      <file src="..\content\WindsorConfig.cs.pp" target="content\App_Start\WindsorConfig.cs.pp" />
     </files>
   </metadata>
 </package>
