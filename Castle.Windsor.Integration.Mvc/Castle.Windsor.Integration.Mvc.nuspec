@@ -15,9 +15,9 @@
       <dependency id="Microsoft.AspNet.Mvc" version="4.0.20710.0" />
       <dependency id="WebActivator" version="1.5.1" />
     </dependencies>
-    <files>
-      <file src="..\content\ControllersInstaller.cs.pp" target="content\ControllersInstaller.cs.pp" />
-      <file src="..\content\WindsorConfig.cs.pp" target="content\App_Start\WindsorConfig.cs.pp" />
-    </files>
   </metadata>
+  <files>
+    <file src="..\content\ControllersInstaller.cs.pp" target="content\ControllersInstaller.cs.pp" />
+    <file src="..\content\WindsorConfig.cs.pp" target="content\App_Start\WindsorConfig.cs.pp" />
+  </files>
 </package>
