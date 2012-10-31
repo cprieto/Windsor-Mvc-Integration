@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Windsor.Integration.Mvc", "Castle.Windsor.Integration.Mvc\Castle.Windsor.Integration.Mvc.csproj", "{2F891D7F-2609-4711-9719-4A5180AAA6F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Windsor.Integration.Mvc.Tests", "Castle.Windsor.Integration.Mvc.Tests\Castle.Windsor.Integration.Mvc.Tests.csproj", "{77A1ABB9-011B-4E99-87E2-828715D13F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2F891D7F-2609-4711-9719-4A5180AAA6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F891D7F-2609-4711-9719-4A5180AAA6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F891D7F-2609-4711-9719-4A5180AAA6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A1ABB9-011B-4E99-87E2-828715D13F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A1ABB9-011B-4E99-87E2-828715D13F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A1ABB9-011B-4E99-87E2-828715D13F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A1ABB9-011B-4E99-87E2-828715D13F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
