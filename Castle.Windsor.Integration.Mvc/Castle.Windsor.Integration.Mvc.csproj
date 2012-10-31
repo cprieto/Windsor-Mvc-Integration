@@ -77,6 +77,7 @@
     <Compile Include="WindsorDependencyResolver.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Castle.Windsor.Integration.Mvc.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
